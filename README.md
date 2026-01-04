@@ -1,64 +1,82 @@
-Obeys Agency Website
+# 🎨 Obeys Agency Website
 
-Obeys Agency is a creative design and development showcase website built to present a digital agency’s portfolio, services, and identity in a modern and engaging way.
+✨ **Obeys Agency** is a modern and visually rich creative agency website designed to showcase portfolio work, brand identity, and digital experiences in an engaging way.
 
-🌐 Live Site
+---
 
-➡️ https://obeysagencyak.netlify.app/
+## 🌐 Live Preview
 
-📌 Features
+🔗 **Live Website:**  
+https://obeysagencyak.netlify.app/
 
-Responsive Design — works across desktop, tablet, and mobile screens
+---
 
-Portfolio Showcase — displays agency projects and visual work
+## 🚀 Features
 
-About Section — describes the agency’s philosophy and team values
+✅ Fully responsive design  
+🎯 Clean and modern UI  
+🖼️ Portfolio & creative work showcase  
+🧠 About section describing agency vision  
+🧭 Smooth navigation & user experience  
+🎨 Custom branding and typography  
 
-Contact & Social Links — allows users to reach out or connect
+---
 
-Award Highlights — shows recognitions and achievements in design
+## 🛠️ Tech Stack
 
-Custom Branding — personalized visuals and typography
+🧩 **Frontend**
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚙️ JavaScript  
 
-💡 About the Agency
+🚀 **Deployment**
+- Netlify  
 
-Obeys Agency (Obys) is a boutique digital design agency focused on creating unique web experiences, combining visual design, interaction, and creative expression. The agency emphasizes teamwork, innovation, and delivering “wow” projects for clients worldwide. 
-obeysagencyak.netlify.app
+---
 
-The site highlights past awards and recognitions from top platforms like:
+## 📁 Project Structure
 
-Awwwards
+```text
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    ├── images/
+    └── fonts/
+```
+## 🎯 Project Goal
 
-CSS Design Awards
+The goal of this project is to create a **high-impact digital agency website** that focuses on:
 
-FWA
+- 🎥 Visual storytelling  
+- 🎨 Creative presentation  
+- 🏷️ Strong brand identity  
+- 🧑‍💼 Professional portfolio display  
 
-Behance showcases 
-obeysagencyak.netlify.app
+It is ideal for **design agencies, creative studios, and freelancers**.
 
-🛠️ Built With
+---
 
-HTML
+## 📸 Preview
 
-CSS
+🖥️ Open the live link to explore **animations, layouts, and visuals**.
 
-JavaScript
+---
 
-You can expand this with specific libraries (e.g., GSAP, Locomotive Scroll) if used. 
-GitHub
+## 📬 Contact
 
-📁 Structure (Typical)
-index.html
-styles.css
-script.js
-/assets/
+💌 For collaborations, ideas, or feedback — feel free to connect.
 
-🎨 Design Goals
+---
 
-Simple navigation with smooth UX
+## ⭐ Support
 
-Visually appealing layouts
+If you like this project:
 
-Large portfolio visuals that reflect creative projects
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 🧠 Use it for learning & inspiration  
 
-Agency branding with personality
+---
+
+✨ *Designed with creativity. Built with passion.* ✨
